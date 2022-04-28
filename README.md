@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Bot Crypto Trader
 
 # How to use
@@ -12,7 +11,6 @@ changes
 new changes of dev
 another
 
-=======
 # Bot Crypto Trader
 
 # How to use
@@ -24,4 +22,3 @@ another
 
 changes
 
->>>>>>> main
